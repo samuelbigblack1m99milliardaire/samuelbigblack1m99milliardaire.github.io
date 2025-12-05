@@ -1,0 +1,89 @@
+
+<!-- auteur Tagne Samuel-->
+  <!DOCTYPE html>
+    <html>
+    <head>
+      <meta charset="UTF"-8>
+      <title>Quiz De Math</title>
+    </head>
+
+      <body style="background-color: #FF474C;">
+        
+		<style>
+ body {
+         background-image: url('https://png.pngtree.com/thumb_back/fw800/background/20250825/pngtree-a-snowy-christmas-scene-with-santa-flying-over-a-festive-village-image_17966148.webp');
+          }  
+
+{
+      margin: 0;
+      padding: 5em;
+    }
+   
+    h2, p {
+      margin: 10px;
+    }
+   
+    ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      background-color: #FFFFF060
+     
+  ;
+    }
+   
+    section {
+      background-color: rgba(0, 0, 0, 0.5);
+      margin: 50px auto;
+      width: 80%;
+      padding: 30px;
+      border-radius: 15px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    }
+
+
+    ul li {
+      float: left;
+    }
+   
+    ul li a {
+      display: block;
+      color: white;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+    }
+   
+    ul li a:hover {
+      background-color: #111111;
+    }
+   
+    </style>
+	  </body>
+			<p> je trouve que cette image me definie parceque je suis une personne de très baisible dans la vie</p>
+			<h2> mes passe-temps sur internet</h2>
+			<a href="https://lirenligne.net/"> lire en ligne </a> <br>
+			<a href="https://www.youtube.com/"> youtube</a> <br>
+			<a href="https://store.epicgames.com/"> epic game </a> <br>
+			<h3> si je devait expliquer mon niveu de compétence en technologiques ça ressemblerais a ça </h3>
+			<table border="1">
+  <thead>
+    <tr>
+      <th></th>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>html</td>
+      <td>javascrip</td>
+      <td>css</td>
+    </tr>
+  </tbody>
+	<td>
+	<img src="https://img.freepik.com/psd-gratuit/verifier-symbole-isole_23-2150500363.jpg?semt=ais_hybrid&w=740&q=80" "width="130"</td>
+</table>
+	<h4> je dirais que je suis devenue un expert en html sans me fanter, car  apres avoir terminer cette leçon je sens etre apte a faire des grand choses </h4>
+	</html>
